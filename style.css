@@ -1,0 +1,22 @@
+.ui.fluid.card {
+  margin-top: 10vh;
+  background-color: #ffffb3;
+}
+
+body {
+  background-color: #9966ff;
+}
+
+textarea {
+  color: mediumvioletred;
+}
+#timer {
+  text-align: center;
+  font-size: 3rem;
+  color: #ffffb3;
+  font-weight: bold;
+}
+.quote-display {
+  font-size: large;
+  padding: 3vh;
+}
